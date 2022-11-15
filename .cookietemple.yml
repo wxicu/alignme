@@ -1,0 +1,18 @@
+cookietemple_version: '1.4.1 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: alignme
+project_slug_no_hyphen: alignme
+template_version: '2.1.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: wxicu
+creator_github_username: wxicu
+is_github_repo: true
+is_repo_private: false
+is_github_orga: false
+full_name: xichenwu
+email: xichenwu@outlook.com
+project_name: alignme
+project_short_description: Alignment Tool based on Biopython
+version: 0.1.0
+license: MIT
